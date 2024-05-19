@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=71a5fd&center=true&vCenter=true&width=500&lines=Research+Analyst+at+Healthcare;Budding+Healthcare+Data+Scientist;MS+Biostatistics+@+NYU;Stats+%7C+ML+%7C+AI+%7C+Big+Data"></a>
 </p>
 <hr/>
-<h4 align="center">I am passionate about solving real-world problems through data-driven technology. I am a budding Data Scientist and Statistician. My main interest lies in Statistical Inference, Machine Learning, and Data Engineering, and I have ample practical and research experience in Causal Inference, A/B Testing, Longitudinal and Survival Analysis, EHR & Claims Data Analysis, and Clinical Trials.</h4>
+<h4 align="center">I am passionate about solving real-world problems through data-driven technology. I am a budding Data Scientist and Statistician. My main interest lies in Statistical Inference, Machine Learning, and Big Data Engineering, and I have ample practical and research experience in Causal Inference, A/B Testing, Longitudinal and Survival Analysis, EHR & Claims Data Analysis, and Clinical Trials.</h4>
 <br>
 <hr/>
 <p align="center">
