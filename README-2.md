@@ -78,14 +78,12 @@
 <h3 align="center">Connect with me</h3>
 <div align="center">
   
-  [![image](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanchitank)
-  [![image](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanchi.tank@gmail.com)
-  [![image](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@kanchitank)
-  [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kanchitank)
-  [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TankKanchi)
+  [![image](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ting-lu-9949b0233/)
+  [![image](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luting347@gmail.com)
+  [![image](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@LobsterTing)
 
 </div>
 <hr/>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ting-DS&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="kanchitank"/> 
+  <img src="https://komarev.com/ghpvc/?username=Ting-DS&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Ting-DS"/> 
 </p>
