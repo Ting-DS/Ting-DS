@@ -20,7 +20,7 @@
     <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
   </a>
   <a>
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-3FA037?style=for-the-badge&logo=MongoDB&logoColor=white">
+    <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-3FA037?style=for-the-badge&logo=Tableau&logoColor=white">
   </a>
   <a>
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -42,10 +42,10 @@
     <img alt="SAS" src="https://img.shields.io/badge/-SAS-4f6578?style=for-the-badge&logo=SAS&logoColor=white">
   </a>
   <a>
-    <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white">
+    <img alt="Airflow" src="https://img.shields.io/badge/-Airflow-0052CC?style=for-the-badge&logo=Airflow&logoColor=white">
   </a>
   <a>
-    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white">
+    <img alt="Cassendra" src="https://img.shields.io/badge/-Cassendra-430098?style=for-the-badge&logo=Cassendra&logoColor=white">
   </a>
   <br>
   <a>
@@ -58,7 +58,7 @@
     <img alt="CSS" src="https://img.shields.io/badge/-CSS-2965f1?style=for-the-badge&logo=CSS3&logoColor=white">
   </a>
   <a>
-    <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
+    <img alt="Spark" src="https://img.shields.io/badge/-Spark-777BB4?style=for-the-badge&logo=Spark&logoColor=white">
   </a>
   <a>
     <img alt="Power BI" src="https://img.shields.io/badge/-Power BI-F2C811?style=for-the-badge&logo=Power+BI&logoColor=white">
