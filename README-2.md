@@ -1,13 +1,10 @@
 <h1 align="center">Hi, I'm Ting Lu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=71a5fd&center=true&vCenter=true&width=500&lines=Research+Analyst+at+Healthcare;Budding+Healthcare+Data+Scientist;MS+Biostatistics+@+NYU;Stats+%7C+ML+%7C+AI+%7C+Big+Data"></a>
 </p>
-
 <hr/>
 <h4 align="center">I am passionate about solving real-world problems through technology. I am a budding Data Scientist and ML Engineer. My main interest lies in Data Science, Machine Learning, and Data Engineering, and I have ample practical and research experience in these fields.</h4>
 <br>
-
 <hr/>
 <p align="center">
   <img height= "160" src="https://github-readme-stats.vercel.app/api?username=Ting-DS&theme=tokyonight&show_icons=true&include_all_commits=true" alt="kanchitank"/>
