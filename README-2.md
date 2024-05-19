@@ -17,29 +17,29 @@
     <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
   </a>
   <a>
+    <img alt="SAS" src="https://img.shields.io/badge/-SAS-4f6578?style=for-the-badge&logo=SAS&logoColor=white">
+  </a>
+  <a>
     <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
   </a>
   <a>
     <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-3FA037?style=for-the-badge&logo=Tableau&logoColor=white">
   </a>
   <a>
+    <img alt="R" src="https://img.shields.io/badge/-R-276DC2?style=for-the-badge&logo=R&logoColor=white">
+  </a>
+  <br>
+  <a>
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=white">
   </a>
   <a>
     <img alt="Flask" src="https://img.shields.io/badge/-Flask-646464?style=for-the-badge&logo=Flask&logoColor=white">
-  </a>
-  <br> 
+  </a> 
   <a>
     <img alt="SQL Server" src="https://img.shields.io/badge/-SQL Server-d7689d?style=for-the-badge&logo=SQL+Server&logoColor=white">
   </a>
   <a>
-    <img alt="R" src="https://img.shields.io/badge/-R-276DC2?style=for-the-badge&logo=R&logoColor=white">
-  </a>
-  <a>
     <img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=Git&logoColor=white">
-  </a>
-  <a>
-    <img alt="SAS" src="https://img.shields.io/badge/-SAS-4f6578?style=for-the-badge&logo=SAS&logoColor=white">
   </a>
   <a>
     <img alt="Airflow" src="https://img.shields.io/badge/-Airflow-0052CC?style=for-the-badge&logo=Airflow&logoColor=white">
