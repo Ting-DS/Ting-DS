@@ -70,10 +70,6 @@
   </a>
 </p>
 <hr/>
-<p align="center">
-  <a href="https://github.com/Candida18"><img src="https://activity-graph.herokuapp.com/graph?username=kanchitank&custom_title=Kanchi%20Tank's%20Contribution%20Graph&bg_color=1a1b27&color=70a4fc&line=be91f2&point=4c4c54"/></a>
-</p>
-<hr/>
 <h3 align="center">Connect with me</h3>
 <div align="center">
   
@@ -82,7 +78,4 @@
   [![image](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@LobsterTing)
 
 </div>
-<hr/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ting-DS&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Ting-DS"/> 
-</p>
+
