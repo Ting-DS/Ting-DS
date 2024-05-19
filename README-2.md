@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Kanchi Tank <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hi, I'm Ting Lu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=71a5fd&center=true&vCenter=true&width=500&lines=MS+Biostatistics+@+NYU;Budding+Data+Scientist;Machine+Learning+Engineer;UI%2FUX+Designer;Information+Technology+Student;DS+%7C+ML+%7C+NLP+%7C+CV+%7C+AI"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=71a5fd&center=true&vCenter=true&width=500&lines=Research+Analyst+at+Healthcare;Budding+Healthcare+Data+Scientist;MS+Biostatistics+@+NYU;DS+%7C+ML+%7C+AI+%7C+Medical+Research+%7C+Statistics"></a>
 </p>
 
 <hr/>
