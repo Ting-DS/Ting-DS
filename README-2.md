@@ -87,5 +87,5 @@
 </div>
 <hr/>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanchitank&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="kanchitank"/> 
+  <img src="https://komarev.com/ghpvc/?username=Ting-DS&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="kanchitank"/> 
 </p>
