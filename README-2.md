@@ -30,7 +30,7 @@
   </a>
   <br> 
   <a>
-    <img alt="elasticsearch" src="https://img.shields.io/badge/-elasticsearch-d7689d?style=for-the-badge&logo=elasticsearch&logoColor=white">
+    <img alt="SQL Server" src="https://img.shields.io/badge/-SQL Server-d7689d?style=for-the-badge&logo=SQL+Server&logoColor=white">
   </a>
   <a>
     <img alt="R" src="https://img.shields.io/badge/-R-276DC2?style=for-the-badge&logo=R&logoColor=white">
