@@ -5,15 +5,13 @@
 </p>
 
 <hr/>
-<h4 align="center">I am passionate about solving real-world problems through technology. I am a budding Data Scientist, ML Engineer, and also, a UX Designer. My main interest lies in Data Science, Machine Learning, and Software Engineering, and I have ample practical and research experience in these fields.</h4>
+<h4 align="center">I am passionate about solving real-world problems through technology. I am a budding Data Scientist and ML Engineer. My main interest lies in Data Science, Machine Learning, and Data Engineering, and I have ample practical and research experience in these fields.</h4>
 <br>
-<p align="center"> 
-  <a href="https://drive.google.com/file/d/1dtsoW3PEJaW_LAbsS1sruYz2VkjwVeug/view?usp=share_link"><img src="https://img.shields.io/badge/Resume-9775c2?style=for-the-badge"></a>
-</p>
+
 <hr/>
 <p align="center">
-  <img height= "160" src="https://github-readme-stats.vercel.app/api?username=kanchitank&theme=tokyonight&show_icons=true&include_all_commits=true" alt="kanchitank"/>
-  <img height= "160" src="https://github-readme-streak-stats.herokuapp.com?user=kanchitank&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="kanchitank"/>
+  <img height= "160" src="https://github-readme-stats.vercel.app/api?username=Ting-DS&theme=tokyonight&show_icons=true&include_all_commits=true" alt="kanchitank"/>
+  <img height= "160" src="https://github-readme-streak-stats.herokuapp.com/?user=Ting-DS&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="kanchitank"/>
 </p>
 <hr/>
 <h3 align="center">Tech Stack</h3>
