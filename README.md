@@ -7,7 +7,7 @@
 <br>
 <hr/>
 <p align="center">
-  <img height= "160" src="https://github-readme-streak-stats.herokuapp.com/?user=Ting-DS&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="kanchitank"/>
+  <img height= "160" src="https://github-readme-streak-stats.herokuapp.com/?user=Ting-DS&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Ting-DS"/>
 </p>
 <hr/>
 <h3 align="center">Tech Stack</h3>
