@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ting Lu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hi, I'm Ting <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=71a5fd&center=true&vCenter=true&width=500&lines=Biostatistician;Healthcare+Data+Scientist;MS+Biostatistics+@+NYU;Stats+%7C+ML+%7C+AI+%7C+Big+Data"></a>
 </p>
