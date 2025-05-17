@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=71a5fd&center=true&vCenter=true&width=500&lines=Biostatistician;Healthcare+Data+Scientist;MS+Biostatistics+@+NYU;RWE+%7C+Trials+%7C+CDISC+%7C+Big+Data"></a>
 </p>
 <hr/>
-<h4 align="center">I am passionate about solving RWE research through data-driven technology. My main interest lies in Causal Inference, Machine Learning, Longitudinal Analysis, A/B Testing, Survival Analysis, EHR & Claims & Registry Data, and Clinical Trial Design.</h4>
+<h4 align="center"> RWE research, Data Management, HERO, Causal Inference, Machine Learning, Longitudinal Analysis, A/B Testing, Survival Analysis, EHR & Claims & Registry Data, Clinical Trial Design, CDISC.</h4>
 <br>
 <hr/>
 <p align="center">
