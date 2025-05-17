@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Ting <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=71a5fd&center=true&vCenter=true&width=500&lines=Biostatistician;Healthcare+Data+Scientist;MS+Biostatistics+@+NYU;Stats+%7C+ML+%7C+AI+%7C+Big+Data"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=71a5fd&center=true&vCenter=true&width=500&lines=Biostatistician;Healthcare+Data+Scientist;MS+Biostatistics+@+NYU;RWE+%7C+Trials+%7C+CDISC+%7C+Big+Data"></a>
 </p>
 <hr/>
-<h4 align="center">I am passionate about solving real-world problems through data-driven technology. I am a budding Data Scientist and Statistician. My main interest lies in Statistical Inference, Machine Learning, and Big Data Engineering, and I have ample practical and research experience in Causal Inference, A/B Testing, Longitudinal and Survival Analysis, EHR & Claims Data Analysis, and Clinical Trials.</h4>
+<h4 align="center">I am passionate about solving RWE research through data-driven technology. My main interest lies in Causal Inference, Machine Learning, Longitudinal Analysis, A/B Testing, Survival Analysis, EHR & Claims & Registry Data, and Clinical Trial Design.</h4>
 <br>
 <hr/>
 <p align="center">
